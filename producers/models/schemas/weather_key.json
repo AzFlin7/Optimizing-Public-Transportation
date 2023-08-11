@@ -1,0 +1,8 @@
+{
+  "namespace": "com.transport",
+  "type": "record",
+  "name": "weather.key",
+  "fields": [
+    {"name": "timestamp","type": "long"}
+  ]
+}

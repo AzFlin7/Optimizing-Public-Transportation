@@ -1,0 +1,11 @@
+{
+  "namespace": "com.transport",
+  "type": "record",
+  "name": "arrival.key",
+  "fields": [
+    {
+      "name": "timestamp",
+      "type": "long"
+    }
+  ]
+}
